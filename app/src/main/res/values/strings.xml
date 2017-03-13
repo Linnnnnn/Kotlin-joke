@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyKotlin</string>
+    <string name="title_activity_main1">Main1Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_text_joke">笑话</string>
+    <string name="title_picture_joke">笑图</string>
+
+</resources>
